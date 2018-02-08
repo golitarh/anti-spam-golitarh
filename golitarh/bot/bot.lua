@@ -97,16 +97,16 @@ function create_config( )
     info_text = [[》permag.ir v3
 
 🔰Our channel :
-》@permag_bots《
+》@golitarh《
 
 🔰Our channel2 :
-》@permag_ir《
+》@golitarh《
 
 🔰Our channel3 :
-》@permag《
+》@golitarh《
 
 🔰Our website :
-》http://permag.ir
+》http://golitarh.ir
 ]],
   }
   serialize_to_file(config, './data/config.lua')
