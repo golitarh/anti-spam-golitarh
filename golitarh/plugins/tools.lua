@@ -601,35 +601,35 @@ local hash = 'auto_leave_bot'
 end
 return { 
 patterns = { 
-"^[!/#](visudo)$", 
-"^[!/#](desudo)$",
-"^[!/#](sudolist)$",
-"^[!/#](visudo) (.*)$", 
-"^[!/#](desudo) (.*)$",
-"^[!/#](adminprom)$", 
-"^[!/#](admindem)$",
-"^[!/#](adminlist)$",
-"^[!/#](adminprom) (.*)$", 
-"^[!/#](admindem) (.*)$",
-"^[!/#](leave)$",
-"^[!/#](autoleave) (.*)$", 
-"^[!/#](permag)$",
-"^[!/#](creategroup) (.*)$",
-"^[!/#](createsuper) (.*)$",
-"^[!/#](tosuper)$",
-"^[!/#](import) (.*)$",
-"^[!/#](setbotname) (.*)$",
-"^[!/#](setbotusername) (.*)$",
-"^[!/#](delbotusername) (.*)$",
-"^[!/#](markread) (.*)$",
-"^[!/#](bc) (%d+) (.*)$",
-"^[!/#](broadcast) (.*)$",
+"^[](visudo)$", 
+"^[](desudo)$",
+"^[](sudolist)$",
+"^[](visudo) (.*)$", 
+"^[](desudo) (.*)$",
+"^[](adminprom)$", 
+"^[](admindem)$",
+"^[](adminlist)$",
+"^[](adminprom) (.*)$", 
+"^[](admindem) (.*)$",
+"^[](leave)$",
+"^[](autoleave) (.*)$", 
+"^[](permag)$",
+"^[](creategroup) (.*)$",
+"^[](createsuper) (.*)$",
+"^[](tosuper)$",
+"^[](import) (.*)$",
+"^[](setbotname) (.*)$",
+"^[](setbotusername) (.*)$",
+"^[](delbotusername) (.*)$",
+"^[](markread) (.*)$",
+"^[](bc) (%d+) (.*)$",
+"^[](broadcast) (.*)$",
 }, 
 run = run 
 }
 
 -- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- http://golitarh.ir
+-- @golitarh
+-- @golitarh
+-- @golitarh
